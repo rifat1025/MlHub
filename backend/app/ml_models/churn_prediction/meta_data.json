@@ -1,0 +1,7 @@
+{
+    "name": "Churn Prediction",
+    "version": "1.0",
+    "framework": "scikit-learn",
+    "model_file": "model.pkl",
+    "created_by": "Rifat Sarker"
+}
